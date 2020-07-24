@@ -1,0 +1,13 @@
+{
+"companyName": "Klk",
+"productName": "FlappySanta",
+"dataUrl": "ForWeb.data.unityweb",
+"asmCodeUrl": "ForWeb.asm.code.unityweb",
+"asmMemoryUrl": "ForWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "ForWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#050404"
+}
